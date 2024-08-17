@@ -1,0 +1,31 @@
+.containerBody {
+    height: 78%;
+    padding-top: 50px;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttonSenhas {
+    color: var(--cor-1);
+    background-color: var(--cor-2);
+    height: 52px;
+    width: 150px;
+    cursor: pointer;
+    transition: all 0.3s;
+    border: 3px solid var(--cor-1);
+    border-radius: 15px;
+}
+
+.buttonSenhas:hover {
+    transform: scale(1.1);
+}
+
+.containerButton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
