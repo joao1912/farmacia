@@ -16,7 +16,8 @@
 #root, html, body {
   width: 100vw;
   height: 100vh;
-
+  overflow-x: hidden;
+  background-color: white;
 }
 
 .page {

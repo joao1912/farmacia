@@ -10,6 +10,7 @@
 p {
     text-align: center;
     width: 50%;
+    color: var(--cor-1);
 }
 
 h1 {
